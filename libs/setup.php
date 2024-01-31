@@ -15,7 +15,7 @@ $config->set('viewsFolder', 'views/');
 //$config->set('dbpass', '');
 
 
-$config->set('dbhost', 'monorail.proxy.rlwy.net');
+$config->set('dbhost', 'monorail.proxy.rlwy.net:11355');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', '44gc5H-ff-5CCG2g524Fbdd5a33DGB2F');
